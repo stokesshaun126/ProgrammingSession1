@@ -8,5 +8,6 @@ print("1", end="")
 print("2", end="")
 print("3", end="hello")
 print("4", end="\n\n")
-print("5", end="")
+print("5", end="\n")
 # \n adds a space between the lines that are being printed
+print("this was added after first commit")
